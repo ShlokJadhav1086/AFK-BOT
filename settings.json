@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheUnacSmp.aternos.me",
+    "ip": "kaluga.aternos.host",
     "port": 56625,
     "version": "1.20.1",
     "try-creative": false
